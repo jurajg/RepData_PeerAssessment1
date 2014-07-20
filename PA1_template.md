@@ -83,7 +83,7 @@ total_steps_by_day2 <- unlist(total_steps_by_day2);
 hist(total_steps_by_day2, breaks=25,
      xlab = "Total steps by day",
      ylab = "Frequency of days",
-     main = "Histogram of steps by day");
+     main = "Histogram of steps by day (filled data)");
 ```
 
 ![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
